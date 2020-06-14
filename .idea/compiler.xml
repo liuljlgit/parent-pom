@@ -9,7 +9,6 @@
         <module name="gateway-server" />
         <module name="zuul-server" />
         <module name="link-nacos-server" />
-        <module name="parent-pom" />
       </profile>
     </annotationProcessing>
   </component>
