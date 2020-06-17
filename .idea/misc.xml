@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/../link-nacos-server/pom.xml" />
         <option value="$PROJECT_DIR$/../gateway-server/pom.xml" />
         <option value="$PROJECT_DIR$/../zuul-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../dynamic-gateway-db/pom.xml" />
       </list>
     </option>
   </component>
