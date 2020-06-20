@@ -6,18 +6,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="gateway-server" />
-        <module name="dynamic-gateway-db" />
+        <module name="provider-server" />
         <module name="zuul-server" />
+        <module name="provider-server-client" />
         <module name="link-nacos-server" />
+        <module name="dynamic-gateway-db" />
+        <module name="gateway-server" />
+        <module name="consumer-server" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="consumer-server" options="-parameters" />
       <module name="dynamic-gateway-db" options="-parameters" />
       <module name="gateway-server" options="-parameters" />
       <module name="link-nacos-server" options="-parameters" />
+      <module name="provider-server" options="-parameters" />
+      <module name="provider-server-client" options="-parameters" />
       <module name="zuul-server" options="-parameters" />
     </option>
   </component>

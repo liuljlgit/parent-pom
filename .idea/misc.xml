@@ -9,6 +9,10 @@
         <option value="$PROJECT_DIR$/../gateway-server/pom.xml" />
         <option value="$PROJECT_DIR$/../zuul-server/pom.xml" />
         <option value="$PROJECT_DIR$/../dynamic-gateway-db/pom.xml" />
+        <option value="$PROJECT_DIR$/../service-call/pom.xml" />
+        <option value="$PROJECT_DIR$/../service-call/provider-server-client/pom.xml" />
+        <option value="$PROJECT_DIR$/../service-call/provider-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../service-call/consumer-server/pom.xml" />
       </list>
     </option>
   </component>

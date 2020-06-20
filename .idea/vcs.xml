@@ -5,6 +5,7 @@
     <mapping directory="$PROJECT_DIR$/../gateway-server" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../link-nacos-server" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../service-call" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../zuul-server" vcs="Git" />
   </component>
 </project>
