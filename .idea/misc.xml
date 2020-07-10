@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/../service-call/provider-server-client/pom.xml" />
         <option value="$PROJECT_DIR$/../service-call/provider-server/pom.xml" />
         <option value="$PROJECT_DIR$/../service-call/consumer-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../service-call/service-call-base/pom.xml" />
       </list>
     </option>
   </component>

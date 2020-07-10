@@ -5,8 +5,11 @@
     <file url="file://$PROJECT_DIR$/../gateway-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../link-nacos-server/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../service-call/consumer-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../service-call/consumer-server/src/main/resources/application.yml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../service-call/provider-server-client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../service-call/provider-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../service-call/provider-server/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../service-call/service-call-base/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../zuul-server/src/main/java" charset="UTF-8" />
   </component>
 </project>

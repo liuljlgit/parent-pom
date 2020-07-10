@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="service-call-base" />
         <module name="provider-server" />
         <module name="zuul-server" />
         <module name="provider-server-client" />
@@ -24,6 +25,7 @@
       <module name="link-nacos-server" options="-parameters" />
       <module name="provider-server" options="-parameters" />
       <module name="provider-server-client" options="-parameters" />
+      <module name="service-call-base" options="-parameters" />
       <module name="zuul-server" options="-parameters" />
     </option>
   </component>
