@@ -11,5 +11,12 @@
     <file url="file://$PROJECT_DIR$/../service-call/provider-server/src/main/resources/application.yml" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../service-call/service-call-base/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../zuul-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../github/framework/frame-auth-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../github/framework/frame-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../github/framework/frame-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../github/framework/frame-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../github/framework/frame-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../github/framework/resource-server-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../github/framework/resource-server/src/main/java" charset="UTF-8" />
   </component>
 </project>

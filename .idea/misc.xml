@@ -14,6 +14,14 @@
         <option value="$PROJECT_DIR$/../service-call/provider-server/pom.xml" />
         <option value="$PROJECT_DIR$/../service-call/consumer-server/pom.xml" />
         <option value="$PROJECT_DIR$/../service-call/service-call-base/pom.xml" />
+        <option value="$PROJECT_DIR$/../../github/framework/pom.xml" />
+        <option value="$PROJECT_DIR$/../../github/framework/resource-server-client/pom.xml" />
+        <option value="$PROJECT_DIR$/../../github/framework/resource-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../../github/framework/frame-security/pom.xml" />
+        <option value="$PROJECT_DIR$/../../github/framework/frame-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../../github/framework/frame-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/../../github/framework/frame-auth-client/pom.xml" />
+        <option value="$PROJECT_DIR$/../../github/framework/frame-auth/pom.xml" />
       </list>
     </option>
   </component>
