@@ -9,9 +9,9 @@
         <module name="dynamic-gateway-db" />
         <module name="service-call-base" />
         <module name="provider-server" />
-        <module name="frame-auth-client" />
         <module name="frame-security" />
         <module name="link-nacos-server" />
+        <module name="resource-server-client" />
         <module name="zuul-server" />
         <module name="gateway-server" />
         <module name="consumer-server" />
@@ -19,7 +19,7 @@
         <module name="frame-gateway" />
         <module name="frame-auth" />
         <module name="resource-server" />
-        <module name="resource-server-client" />
+        <module name="frame-auth-client" />
         <module name="provider-server-client" />
       </profile>
     </annotationProcessing>
