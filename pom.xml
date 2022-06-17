@@ -25,7 +25,7 @@
         <mysql.connect.version>5.1.48</mysql.connect.version>
         <spring.jdbc.version>2.3.0.RELEASE</spring.jdbc.version>
         <druid.version>1.1.5</druid.version>
-        <fastjson.version>1.2.40</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <commons-pool2.version>2.6.2</commons-pool2.version>
         <redis.version>2.3.1.RELEASE</redis.version>
         <guava.version>25.1-jre</guava.version>
